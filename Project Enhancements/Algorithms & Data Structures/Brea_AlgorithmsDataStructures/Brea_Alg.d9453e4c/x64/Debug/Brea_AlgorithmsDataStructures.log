@@ -1,8 +1,0 @@
-﻿  Brea_AlgorithmsDataStructures.cpp
-C:\Users\Zach\Desktop\CS 499 Capstone\Artifacts & Enhancements\Algorithms & Data Structures\Brea_AlgorithmsDataStructures\Brea_AlgorithmsDataStructures.cpp(100,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Zach\Desktop\CS 499 Capstone\Artifacts & Enhancements\Algorithms & Data Structures\Brea_AlgorithmsDataStructures\Brea_AlgorithmsDataStructures.cpp(164,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Zach\Desktop\CS 499 Capstone\Artifacts & Enhancements\Algorithms & Data Structures\Brea_AlgorithmsDataStructures\Brea_AlgorithmsDataStructures.cpp(240,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Zach\Desktop\CS 499 Capstone\Artifacts & Enhancements\Algorithms & Data Structures\Brea_AlgorithmsDataStructures\Brea_AlgorithmsDataStructures.cpp(245,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Zach\Desktop\CS 499 Capstone\Artifacts & Enhancements\Algorithms & Data Structures\Brea_AlgorithmsDataStructures\Brea_AlgorithmsDataStructures.cpp(249,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Zach\Desktop\CS 499 Capstone\Artifacts & Enhancements\Algorithms & Data Structures\Brea_AlgorithmsDataStructures\Brea_AlgorithmsDataStructures.cpp(264,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
-  Brea_AlgorithmsDataStructures.vcxproj -> C:\Users\Zach\Desktop\CS 499 Capstone\Artifacts & Enhancements\Algorithms & Data Structures\Brea_AlgorithmsDataStructures\x64\Debug\Brea_AlgorithmsDataStructures.exe

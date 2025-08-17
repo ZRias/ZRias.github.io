@@ -1,1 +1,16 @@
+# Ignore Visual Studio build output
 .vs/
+[Bb]in/
+[Oo]bj/
+x64/
+x86/
+*.tlog
+*.lastbuildstate
+*.log
+*.obj
+*.pdb
+*.idb
+*.ilk
+*.exe
+*.dll
+*.cache
